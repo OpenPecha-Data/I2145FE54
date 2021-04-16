@@ -3,93 +3,80 @@ annotation_type: pagination
 revision: '00001'
 annotations:
   4ac6203004a14022a3d9d65ad6f50b6e:
-    page_index: 1a
-    page_info: null
-    reference: I1PD362530001
+    imgnum: 1
+    reference: I1PD362530001.tif
     span:
       start: 0
       end: 643
   140f415f52954e77bd9eccaf7eab1796:
-    page_index: 2a
-    page_info: null
-    reference: I1PD362530003
+    imgnum: 3
+    reference: I1PD362530003.tif
     span:
       start: 648
       end: 740
   b4c134d1106d4d2fbd2ae6cbd48f212e:
-    page_index: 2b
-    page_info: null
-    reference: I1PD362530004
+    imgnum: 4
+    reference: I1PD362530004.tif
     span:
       start: 745
       end: 1042
   bb380d2760594e2f8d6c62f4f2808eed:
-    page_index: 3a
-    page_info: null
-    reference: I1PD362530005
+    imgnum: 5
+    reference: I1PD362530005.tif
     span:
       start: 1047
       end: 1368
   e8f965c374084ba5ba0d2468973a3236:
-    page_index: 3b
-    page_info: null
-    reference: I1PD362530006
+    imgnum: 6
+    reference: I1PD362530006.tif
     span:
       start: 1373
       end: 1847
   d85648c871194cfc999f68c283747629:
-    page_index: 4a
-    page_info: null
-    reference: I1PD362530007
+    imgnum: 7
+    reference: I1PD362530007.tif
     span:
       start: 1852
       end: 2235
   a0ca42980a884f4ead3a41f77c4b5b57:
-    page_index: 4b
-    page_info: null
-    reference: I1PD362530008
+    imgnum: 8
+    reference: I1PD362530008.tif
     span:
       start: 2240
       end: 2719
   1c69fa45bc0e4238acb6af37df6dba43:
-    page_index: 5a
-    page_info: null
-    reference: I1PD362530009
+    imgnum: 9
+    reference: I1PD362530009.tif
     span:
       start: 2724
       end: 3045
   a1aa4e421911484c8f865039ad0afe81:
-    page_index: 5b
-    page_info: null
-    reference: I1PD362530010
+    imgnum: 10
+    reference: I1PD362530010.tif
     span:
       start: 3050
       end: 3479
   279ddc031cae4d408d195d704f932875:
-    page_index: 6a
-    page_info: null
-    reference: I1PD362530011
+    imgnum: 11
+    reference: I1PD362530011.tif
     span:
       start: 3484
       end: 3945
   74b34b266543487eb53c07798e1ed15e:
-    page_index: 6b
-    page_info: null
-    reference: I1PD362530012
+    imgnum: 12
+    reference: I1PD362530012.tif
     span:
       start: 3950
       end: 4470
   a59dcc7125284170851842769230da46:
-    page_index: 7a
-    page_info: null
-    reference: I1PD362530013
+    imgnum: 13
+    reference: I1PD362530013.tif
     span:
       start: 4475
       end: 4893
   3c45298f01a9449ea14292a0ed1dae7d:
-    page_index: 7b
-    page_info: null
-    reference: I1PD362530014
+    imgnum: 14
+    reference: I1PD362530014.tif
     span:
       start: 4898
       end: 4929
